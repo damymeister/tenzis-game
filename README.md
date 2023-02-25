@@ -6,7 +6,7 @@ This project was created using React and is intended as a example of how to use 
 ## How to Play
 Open your browser and navigate to https://damymeister.github.io/tenzis-game/.
 Click the "Roll" button to roll the dice.
-Keep rolling until you get all the dice to show the same number.
+Keep rolling until you get all the dice to show the same number. After you have done it, "react-confetti" will show up to your screen!
 
 ## How it Works
 The game logic is implemented in the Game component in src/App.js. This component uses the useState hook to maintain the current state of the game, including the number of dice, the current roll values, and whether the game has been won. It also uses the useEffect hook to update the game state whenever the user clicks the "Roll" button.

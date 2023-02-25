@@ -1,4 +1,4 @@
-#Tenzi Game
+##Tenzi Game
 This is a simple web-based implementation of the popular dice game Tenzi. It allows players to roll up to 10 dice at a time and tries to get all the dice to show the same number as fast as possible. This project was created using React and is intended as a simple example of how to use useState and useEffect hooks in a real-world project.
 
 #How to Play

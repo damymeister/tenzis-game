@@ -17,3 +17,5 @@ The Die component in src/components/Die.js is responsible for rendering individu
 
 This project was created as a learning exercise but some of functionalities will be improved soon. 
 
+## Updates
+# 1.1

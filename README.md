@@ -18,4 +18,5 @@ The Die component in src/components/Die.js is responsible for rendering individu
 This project was created as a learning exercise but some of functionalities will be improved soon. 
 
 ## Updates
-# 1.1
+
+Update 1.1 - Timer that measures the game time and storing the best time in localStorage were added.

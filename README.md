@@ -4,7 +4,7 @@ to get all the dice to show the same number as fast as possible.
 This project was created using React and is intended as a example of how to use useState and useEffect hooks in a real-world project.
 
 ## How to Play
-Open your browser and navigate to https://damymeister.github.io/tenzis-game/.
+Open your browser and navigate to <a href=https://damymeister.github.io/tenzis-game/>Tenzi Game</a>.
 Click the "Roll" button to roll the dice.
 Keep rolling until you get all the dice to show the same number. After you have done it, "react-confetti" will show up to your screen!
 

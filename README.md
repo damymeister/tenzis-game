@@ -19,4 +19,4 @@ This project was created as a learning exercise but some of functionalities will
 
 ## Updates
 
-Update 1.1 - Timer that measures the game time and storing the best time in localStorage were added.
+Update 1.1 - Timer that measures the game time and possibility to store the best game time in localStorage were added.
